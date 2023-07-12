@@ -26,6 +26,8 @@ PCL2:启动器内选择"下载"->"整合包"->"安装已有整合包"
 ## 手动安装
 如果不能正确安装或您的启动器不支持导入整合包,请打开manifest.json查看相关信息,手动安装相应版本和mod加载器后将overrides内文件放入游戏文件夹内
 
+![image](https://github.com/MC-luoluo/Modpack/assets/113677351/23e05044-d6ce-4183-aa5f-d6e1b31d0f2f)
+
 # 附言
 目前PCL2不支持quilt版本,不想动脑子的话无脑选择Fabric版本就行
 
