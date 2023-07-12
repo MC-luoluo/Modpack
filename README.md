@@ -2,6 +2,7 @@
 整合包
 # 下载和安装方法
 ## 自动安装
+### 拖入启动器
 点击右侧的Releas字样（直接点Releas这个词）
 
 ![屏幕截图 2023-07-12 133409](https://github.com/MC-luoluo/Modpack/assets/113677351/e347f88d-0cd6-487f-9e99-ff4c631f2b72)
@@ -18,7 +19,9 @@
 
 ![image](https://github.com/MC-luoluo/Modpack/assets/113677351/9dd997d5-db70-464f-b5a9-e203bd0dae15)
 
-直接拖入启动器(适用于PCL2/HMCL/BakaXL)安装
+直接拖入启动器界面安装
+
+### 启动器内选择导入
 
 ## 手动安装
 如果不能正确安装或您的启动器不支持导入整合包,请打开manifest.json查看相关信息,手动安装相应版本和mod加载器后将overrides内文件放入游戏文件夹内
