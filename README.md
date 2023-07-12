@@ -29,6 +29,6 @@ PCL2:启动器内选择"下载"->"整合包"->"安装已有整合包"
 ![image](https://github.com/MC-luoluo/Modpack/assets/113677351/23e05044-d6ce-4183-aa5f-d6e1b31d0f2f)
 
 # 附言
-目前PCL2不支持quilt版本,不想动脑子的话无脑选择Fabric版本就行
+目前PCL2不支持quilt版本,不想动脑子的话选择Fabric版本就行
 
 tag什么的比较乱(基本就是随便写的,也不求有人来看或者用)反正大概最新就行了(
