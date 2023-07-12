@@ -1,8 +1,7 @@
 # Modpack
 整合包
-# 下载和安装方法
-## 自动安装
-### 拖入启动器
+# 下载和安装
+## 下载
 点击右侧的Releas字样（直接点Releas这个词）
 
 ![屏幕截图 2023-07-12 133409](https://github.com/MC-luoluo/Modpack/assets/113677351/e347f88d-0cd6-487f-9e99-ff4c631f2b72)
@@ -15,6 +14,8 @@
 
 ![image](https://github.com/MC-luoluo/Modpack/assets/113677351/67fb7a4c-6f20-4d48-ad8b-f355297ed4be)
 
+## 自动安装
+### 拖入启动器
 将下载得到的zip压缩包
 
 ![image](https://github.com/MC-luoluo/Modpack/assets/113677351/9dd997d5-db70-464f-b5a9-e203bd0dae15)
