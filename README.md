@@ -1,31 +1,21 @@
 # Modpack
 整合包
-# 下载和安装
 ## 下载
-点击右侧的Releas字样（直接点Releas这个词）
+[Release](https://github.com/MC-luoluo/Modpack/releases)
 
-![屏幕截图 2023-07-12 133409](https://github.com/MC-luoluo/Modpack/assets/113677351/e347f88d-0cd6-487f-9e99-ff4c631f2b72)
+## 安装
+### Prism Launcher
+点击上方添加实例，在弹出的窗口左侧选择导入，从[Release](https://github.com/MC-luoluo/Modpack/releases)复制下载链接或下载对应的打包文件，在窗口中填入链接或点击浏览选择下载的文件，点击安装即可。
 
-进入Release界面
+### HMCL
+"下载"->"整合包"->"安装整合包"->"导入本地整合包文件"
+在弹出的窗口中选择刚刚下载到的整合包文件,确认并安装即可。
 
-![image](https://github.com/MC-luoluo/Modpack/assets/113677351/1fb6601e-3dda-44c8-85b7-9340fd0c7b02)
-
-选择Assets中合适的文件点击下载
-
-![image](https://github.com/MC-luoluo/Modpack/assets/113677351/67fb7a4c-6f20-4d48-ad8b-f355297ed4be)
-
-## 自动安装
-### 拖入启动器
-将下载得到的zip压缩包文件直接拖入启动器界面安装即可
-### 启动器内选择导入
-HMCL:启动器内选择"下载"->"整合包"->"安装整合包"->"导入本地整合包文件"
-在弹出的窗口中选择刚刚下载到的整合包文件,确认并安装即可
-
-PCL2:启动器内选择"下载"->"整合包"->"安装已有整合包"
-在弹出的窗口中选择刚刚下载到的整合包文件,确认并安装即可
+### PCL2
+"下载"->"整合包"->"安装已有整合包"
+在弹出的窗口中选择刚刚下载到的整合包文件,确认并安装即可。
 ## 手动安装
 如果不能正确安装或您的启动器不支持导入整合包,请使用zip格式打开整合包查看相关信息,手动安装相应版本和mod加载器后将overrides内文件放入游戏文件夹内
-# 附言
-目前PCL2不支持quilt版本,不想动脑子的话选择Fabric版本就行
+
 
 tag什么的比较乱(基本就是随便写的,也不求有人来看或者用)反正大概最新就行了(
